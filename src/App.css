@@ -1,0 +1,25 @@
+.display-item{
+    display: flex;
+    background-color: #fff;
+    color: black;
+    width: 500px;
+    height: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
+
+.priority-color{
+    border-right: 4px solid red;
+    margin-left: auto;
+    border-radius: 100px;
+    background-color: red;
+    color: white;
+}
+
+.none-priority{
+    border-radius: 100px;
+    border-right: 4px solid green;
+    margin-left: auto;
+    background-color: cornflowerblue;
+    color: white;
+}

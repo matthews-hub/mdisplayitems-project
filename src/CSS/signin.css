@@ -1,0 +1,134 @@
+.main{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: rgb(212, 208, 208);
+  }
+  
+  .sub-main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207,207);
+    padding-top: 30px;
+    border-radius: 40px;
+    background-color: rgb(179, 179, 179);
+  }
+
+  .images{
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+
+  }
+
+  .images-container{
+    background-color: rgb(223, 221, 221);
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    height: 115px;
+    width: 115px;
+  }
+
+  .log{
+     height: 100px;
+     width: 100px;
+     border-radius: 130px;
+  }
+
+  input{
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    margin-top: 5px;
+  }
+
+  .input-add{
+    padding-left: 2%;
+  }
+
+  .email{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px; 
+    border-radius: 30px;
+  }
+
+ .name{
+    padding-left: 70px;
+    font-size: 20px;
+ }
+
+ button{
+    width: 380px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: rgb(212, 208, 208);
+    color: white;
+    border: none;
+    margin-top: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 980;
+ }
+
+ button:hover{
+  background-color: rgb(212, 208, 208);
+ }
+
+ .links{
+    font-size: 20px;
+    font-weight: 400;
+ }
+
+ a{
+    color: blue;
+ }
+
+ h1{
+  font-weight: 400;
+  text-transform: uppercase;
+ }
+
+ .select-state{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  margin-top: 5px;
+  font-weight: 980;
+  color: rgb(116, 115, 114);
+  padding-left: 5px;
+ }
+
+ .sub-main2{
+  min-height: 580px;
+  width: 580px;
+  margin: 40px auto;
+  background-color: rgba(194, 179, 167, 0.897);
+  border-radius: 10px;
+ }
+
+ .Submit-btn2{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  margin-top: 5px;
+  color:rgb(116, 115, 114);
+ }
